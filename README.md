@@ -1,4 +1,4 @@
-# ArduNyam
+# ArduNyan
 ArduNyan with audio - Tones + Arduboy2
 
 Added Arduboy Tones to https://github.com/wademcgillis/ardunyan
