@@ -100,8 +100,7 @@ void GoKittyGo (){  static uint16_t i = 0;
 }
 void loop()
 {
-  unsigned long currentMillis = millis();
-  if (!(arduboy.nextFrame()))
+    if (!(arduboy.nextFrame()))
     return;
     sound.volumeMode(VOLUME_ALWAYS_HIGH);
     sound.tones(melody);
